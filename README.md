@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to web development or game development.
 
-📫 How to reach me: You can reach me via email at leon@wincamp.pl or connect with me on LinkedIn.
+📫 How to reach me: You can reach me via email at leon@wincamp.pl.
 
 😄 Pronouns: He/Him
 
