@@ -13,7 +13,7 @@
 ⚡ Fun fact: Do you know that i create interesting things?!
 
 - [ ] Rest
-      - [x] Own Functions
-      - [x] Modules
-      - [ ] Fancy Apps
-      - [ ] More...
+ - [x] Own Functions
+ - [x] Modules
+ - [ ] Fancy Apps
+ - [ ] More...
