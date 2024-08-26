@@ -153,9 +153,12 @@ If you want to run your project i recomendeed a plugin in vsc `rust-analyzer` bu
 
 <details>
 <summary><b>PREPARED FOR THE NEXT POST</b></summary></br>
-- [ ]PREPARED FOR THE NEXT POST
-
-- [x]PREPARED FOR THE NEXT POST
+   
+- [ ] Rust
+   - [x] Own Functions
+   - [x] Modules
+   - [ ] Fancy Apps
+   - [ ] More...
 
 1. PREPARED FOR THE NEXT POST
 
