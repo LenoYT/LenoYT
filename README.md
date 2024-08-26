@@ -12,8 +12,4 @@
 
 ⚡ Fun fact: Do you know that i create interesting things?!
 
-- [ ] Rest
-   - [x] Own Functions
-   - [x] Modules
-   - [ ] Fancy Apps
-   - [ ] More...
+I recommend checking out [./whatilearn.md](./whatilearn.md)
