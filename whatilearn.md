@@ -152,6 +152,17 @@ If you want to run your project i recomendeed a plugin in vsc `rust-analyzer` bu
 </details>
 
 <details>
+<summary><b>Java</b></summary></br>
+   
+- [x] Java
+
+1. PREPARED FOR THE NEXT POST - dont want to write
+
+2. PREPARED FOR THE NEXT POST
+
+</details>
+
+<details>
 <summary><b>PREPARED FOR THE NEXT POST</b></summary></br>
    
 - [ ] Rust
